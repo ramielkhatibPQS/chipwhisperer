@@ -20,8 +20,10 @@
 
 __attribute__((weak)) void led_ok(unsigned int status)
 {
+    (void)status;
 }
 
 __attribute__((weak)) void led_error(unsigned int status)
 {
+    (void)status;
 }
