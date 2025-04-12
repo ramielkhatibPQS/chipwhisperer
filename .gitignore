@@ -36,6 +36,7 @@ docs/make.bat
 *.vcd
 *.fst
 **/.vscode/*
+firmware/**/*.a
 firmware/**/*.bin
 firmware/**/*.eep
 firmware/**/*.elf
